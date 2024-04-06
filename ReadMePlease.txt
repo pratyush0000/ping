@@ -3,6 +3,12 @@
 How to run?
 Just run the executable file :)
 
+How to run code?
+1. have pygame
+2. run code
+
+
+
 CONTROLS
 
 Player 1 (Yellow Faction):
