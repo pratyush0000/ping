@@ -12,11 +12,11 @@ How to run code?
 CONTROLS
 
 Player 1 (Yellow Faction):
-Move: WASD
+Move: WASD, 
 Fire : Left Ctrl
 
 Player 2 (Red Faction):
-Move: Arrow Keys
+Move: Arrow Keys, 
 Fire : Right Ctrl
 
 
